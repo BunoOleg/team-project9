@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://sokorevvvladimir.github.io/team-project9",
+  "homepage": "https://bunooleg.github.io/team-project9",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-project9/"
